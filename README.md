@@ -1,4 +1,4 @@
-language koans
+The answer of some language koans
 ====
 
 ### learn language by the koans
